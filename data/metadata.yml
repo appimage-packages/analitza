@@ -46,6 +46,7 @@ frameworks:
     - plasma-framework
     - kdecoration
     - breeze
+    - syntax-highlighting
 type: git
 url: http://anongit.kde.org/blogilo
 buildsystem: cmake
