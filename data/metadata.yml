@@ -47,6 +47,7 @@ frameworks:
     - kdecoration
     - breeze
     - syntax-highlighting
+    - kparts
     - ktexteditor
 type: git
 url: http://anongit.kde.org/blogilo
