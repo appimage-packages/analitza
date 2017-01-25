@@ -49,6 +49,7 @@ frameworks:
     - syntax-highlighting
     - kparts
     - ktexteditor
+    - kcalcore
     - kblog
 type: git
 url: http://anongit.kde.org/blogilo
