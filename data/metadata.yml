@@ -49,7 +49,7 @@ frameworks:
     - syntax-highlighting
     - kparts
     - ktexteditor
-    - kde4libsupport
+    - kdelib4support
     - kcalcore
     - kblog
 type: git
