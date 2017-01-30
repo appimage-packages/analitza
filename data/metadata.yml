@@ -49,6 +49,7 @@ frameworks:
     - syntax-highlighting
     - kparts
     - ktexteditor
+    - kdesignerplugin
     - kdelibs4support
     - kcalcore
     - kblog
