@@ -50,6 +50,7 @@ frameworks:
     - kparts
     - ktexteditor
     - kdesignerplugin
+    - kunitconversion
     - kdelibs4support
     - kcalcore
     - kblog
